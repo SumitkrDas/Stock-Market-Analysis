@@ -1,5 +1,5 @@
 # Stock-Market-Analysis
-                                INTRODUCTION
+                                                     INTRODUCTION
  
 This presentation introduces the world of stock market performance, shedding light on its importance and key elements.
  It covers metrics like stock indices, market capitalization, and volatility, while explaining the concepts of bull and bear markets. 
